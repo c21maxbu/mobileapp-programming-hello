@@ -3,7 +3,9 @@
 
 **Skriv din rapport här!**
 
-_Du kan ta bort all text som finns sedan tidigare_.
+
+I went into the layout folder under recources and into activity_main.xml to find the layout for this project. There i found dubbled pressed the wite
+
 
 ## Följande grundsyn gäller dugga-svar:
 
