@@ -4,7 +4,7 @@
 **Skriv din rapport här!**
 
 
-I went into the layout folder under recources and into activity_main.xml to find the layout for this project. There i found dubbled pressed the wite
+I went into the layout folder under recources and into activity_main.xml to find the layout for this project. There i found dubbled pressed the wite lalallala
 
 
 ## Följande grundsyn gäller dugga-svar:
